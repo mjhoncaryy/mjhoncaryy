@@ -21,7 +21,7 @@
 
 ---
 
-I am an Electrical Engineering undergraduate at **Universitas Pendidikan Indonesia** with a growing focus on embedded sensing, connected devices, and engineering data.
+Electrical Engineering undergraduate at **Universitas Pendidikan Indonesia** with a growing focus on embedded sensing, connected devices, and engineering data.
 
 My work explores the path from a physical condition to useful information:
 
